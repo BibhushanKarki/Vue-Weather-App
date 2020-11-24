@@ -86,6 +86,8 @@ body {
   transition: 0.4s;
   border-radius:15px;
   overflow:hidden;
+  box-shadow:  18px 18px 80px #a8a9b2, 
+             -18px -18px 80px #ffffff;
 }
 
 #app.warm {
