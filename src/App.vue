@@ -74,7 +74,7 @@ export default {
 
 body {
   font-family: 'montserrat', sans-serif;
-  backgrou
+  background-image: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
 }
 
 #app {
