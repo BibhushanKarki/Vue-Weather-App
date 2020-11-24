@@ -74,13 +74,18 @@ export default {
 
 body {
   font-family: 'montserrat', sans-serif;
+  backgrou
 }
 
 #app {
   background-image: url('./assets/cold-bg.jpg');
+  width:max-content;
+  margin:1rem auto;
   background-size: cover;
   background-position: bottom;
   transition: 0.4s;
+  border-radius:15px;
+  overflow:hidden;
 }
 
 #app.warm {
