@@ -79,7 +79,7 @@ body {
 
 #app {
   background-image: url('./assets/cold-bg.jpg');
-  width:max-content;
+  width:30vw;
   margin:1rem auto;
   background-size: cover;
   background-position: bottom;
